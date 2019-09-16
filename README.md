@@ -1,3 +1,3 @@
 # starups_investment_advisor
 This model advice investors on which growing startups to invest in
-Built Linear Regression
+This model is created with Linear Regression
